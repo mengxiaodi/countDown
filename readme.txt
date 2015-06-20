@@ -1,1 +1,7 @@
-上传成功啦!!!
+  djs_time璇存槑
+	id:'鍖呭惈鍊掕鏃跺唴瀹圭殑鏍囩ID'
+	timeStamp:浠庢湇鍔″櫒鍥炴潵鐨勬椂闂存埑
+	fn:鍥炶皟鍑芥暟
+	colonTag:'鍊掕鏃剁殑鍐掑彿鏍囩锛屽彲涓嶅～'
+	@author by mengxiaodi 
+	email:1104252528@qq.com
